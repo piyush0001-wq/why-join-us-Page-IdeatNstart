@@ -5,7 +5,7 @@
    </div>
    <div class="section-one">
      <div class="icons">
-       <div class="icon"></div>
+       <div class="icon"><img src="./Ellipse 1.png"></div>
        <div><h1>1</h1></div>
      </div>
      <div class="content">
@@ -29,51 +29,45 @@
    <div class="section-two">
      <div class="icons">
        <div><h1>2</h1></div>
-       <div class="icon"></div>
+       <div class="icon"><img src="./ellipse2.png"></div>
      </div>
      <div class="content">
        <h3>Problem Statement</h3>
        <ul>
          <li>
-           Having no idea - Start from the Problem statement.
+            Have no problem statement - Start with Brainstorming on the platform
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Have no idea - Start from the Problem statement
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Participate in the IdeateNstart free communities discussion based on your interest and experience in a specific domain like Healthcare, Agriculture, etc.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
-         </li>
-         <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Use IdeateNstart free brainstorming keywords analysis to get a real-world problem statement.
          </li>
        </ul>
      </div>
    </div>
    <div class="section-three">
      <div class="icons">
-       <div class="icon"></div>
+       <div class="icon"><img src="./ellipse3.png"></div>
        <div><h1>3</h1></div>
      </div>
      <div class="content">
-       <h3>Brainstroming</h3>
+       <h3>Idea Validation</h3>
        <ul>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           100 questions theorem
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Use the IdeateNstart free framework to validate your idea.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Discussion with an IdeateNstart team to remodel your idea.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
-         </li>
-         <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Validate your idea through various methods and tools with the IdeateNstart team based on your budget and ideation type.
          </li>
        </ul>
      </div>
@@ -81,51 +75,75 @@
    <div class="section-four">
      <div class="icons">
        <div><h1>4</h1></div>
-       <div class="icon"></div>
+       <div class="icon"><img src="./ellipse4.png"></div>
      </div>
      <div class="content">
-       <h3>Brainstroming</h3>
+       <h3>Team Formation, Mentorship, and Social Media Activation</h3>
        <ul>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Get interns from IdeateNstart
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Use the free IdeateNstart networking and ideation portal to search your cofounders and team members.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Use the free skill Behavioral honesty test powered by Machine Learning to get appropriate interns, team members and cofounders based on your project’s requirement and need.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+          Start your social media presence to engage with your target audience and get feedback.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Get guidance and leadership support from the IdeateNstart team.
+         </li>
+         <li>
+           Get your mentor onboard based on your industry domain.
+         </li>
+         <li>
+           Use the free IdeateNstart networking portal to make a connection with the various stakeholders.
+         </li>
+         <li>
+          Use our business and legal services through an IdeateNstart portal.
          </li>
        </ul>
      </div>
    </div>
    <div class="section-five">
      <div class="icons">
-       <div class="icon"></div>
+       <div class="icon"><img src="./ellipse5.png"></div>
        <div><h1>5</h1></div>
      </div>
      <div class="content">
-       <h3>Brainstroming</h3>
+       <h3>Prototyping of M.V.P</h3>
        <ul>
          <li>
-           Having no problem statement - Start with Brainstroming on the plateform
+           Create a concept sketch and wireframes on the paper.
          </li>
          <li>
-           Having no idea - Start from the problem statement
+           Develop a virtual prototype by using tools like Figma, AutoCAD depends on the type of business idea.
          </li>
          <li>
-           Participate in the IdeateNstart free communities discussion based on your interest and experience in a specific domain like Healthcare, Agriculture, etc
+          Use the free IdeateNstart framework to validate and get feedback, ratings, and suggestions from the other stakeholders.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Get guidance and support from the IdeateNstart team.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Get an incubation onboard as per as requirement with the support of an IdeateNstart
+         </li>
+         <li>
+          Get pre-seed funding with the support of an IdeateNstart.
+         </li>
+         <li>
+          Get pre-seed funding with the support of an IdeateNstart.
+         </li>
+         <li>
+          Use the free IdeateNstart networking portal to make connections with the various stakeholders.
+         </li>
+         <li>
+          Use our business and legal services through an IdeateNstart portal.
+         </li>
+         <li>
+          Freelancer Hiring
          </li>
        </ul>
      </div>
@@ -133,25 +151,60 @@
    <div class="section-six">
      <div class="icons">
        <div><h1>6</h1></div>
-       <div class="icon"></div>
+       <div class="icon"><img src="./ellipse6.png"></div>
      </div>
      <div class="content">
-       <h3>Brainstroming</h3>
+       <h3>Business and revenue model</h3>
        <ul>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Conduct market research, calculate core metrics and do empathy with the customers.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+          Use the free IdeateNstart revenue model framework powered by Machine Learning based on the other successful start-up’s, customers’ behaviour, size of the targeted audience.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Create assumptions and validate your hypothesis.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+           Use the free IdeateNstart networking portal to make connections with the various stakeholders.
          </li>
          <li>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, vel?
+          Get an incubation onboard as per as requirement with the support of an IdeateNstart.
+         </li>
+         <li>
+           Use our business and legal services  through an IdeateNstart portal.
+         </li>
+       </ul>
+     </div>
+   </div>
+   <div class="section-seven">
+     <div class="icons">
+       <div class="icon"><img src="./ellipse7.png"></div>
+       <div><h1>7</h1></div>
+     </div>
+     <div class="content">
+       <h3>Product Development and Scalability</h3>
+       <ul>
+         <li>
+           Get an investor onboard as per as requirement with the support of an IdeateNstart free networking feature.
+         </li>
+         <li>
+           Use the free IdeateNstart networking and ideation portal to search your cofounders and team members.
+         </li>
+         <li>
+           Use the free skill Behavioral honesty test powered by Machine Learning to get appropriate interns,team members, and cofounders based on your project’s requirement and need.
+         </li>
+         <li>
+           Use our business and legal services through an IdeateNstart portal.
+         </li>
+         <li>
+           Engage on the IdeateNstart portal to help Studentpreneur through the frameworks and networking features for free.
+         </li>
+         <li>
+           Use the free IdeateNstart founders’ diaries framework to provide leadership and your startup journey lessons to the Studentpreneur to fulfil AtmaNirbhar Bharat’s goals.
+         </li>
+         <li>
+            Freelancer hiring- People can start a startup without leaving their jobs in collaboration with an IdeateNstart and hire freelancers
          </li>
        </ul>
      </div>
@@ -169,9 +222,16 @@ export default {
 </script>
 
 <style scoped >
-
+img{
+  height: 60px;
+  width: 60px;
+}
+.icons .icon{
+  text-align: center;
+  overflow: hidden;
+}
 .content ul li{
-  padding-right: 20px;
+  padding-right: 60px;
   font-size: 18px;
 }
 
@@ -197,10 +257,11 @@ export default {
   display: flex;
 }
 .section-one .icons .icon{
-  height: 70px;
-  width: 70px;
-  background: white;
+  height: 90px;
+  width: 90px;
   border-radius: 50%;
+  background: white;
+  text-align: center;
   margin: 50px 10px 0 140px;
 }
 .section-one .icons h1{
@@ -237,8 +298,8 @@ export default {
   display: flex;
 }
 .section-two .icons .icon{
-  height: 70px;
-  width: 70px;
+  height: 90px;
+  width: 90px;
   background: #42b983;
   border-radius: 50%;
   margin: 50px 10px 0 140px;
@@ -273,8 +334,8 @@ export default {
   display: flex;
 }
 .section-three .icons .icon{
-  height: 70px;
-  width: 70px;
+  height: 90px;
+  width: 90px;
   background: white;
   border-radius: 50%;
   margin: 50px 10px 0 140px;
@@ -300,7 +361,7 @@ export default {
 }
 /* ///////////////////////////////////////////////////////////////////// */
 .section-four{
-  height: 30vh;
+  height: 40vh;
   width: 100%;
   background: white;
   display: flex;
@@ -312,9 +373,10 @@ export default {
   display: flex;
 }
 .section-four .icons .icon{
-  height: 70px;
-  width: 70px;
+  height: 90px;
+  width: 90px;
   background: #42b983;
+  text-align: center;
   border-radius: 50%;
   margin: 50px 10px 0 140px;
 }
@@ -336,7 +398,7 @@ export default {
 
 /* ///////////////////////////////////////////////////////////////////// */
 .section-five{
-  height: 30vh;
+  height: 50vh;
   width: 100%;
   background: #42b983;
   display: flex;
@@ -348,8 +410,8 @@ export default {
   display: flex;
 }
 .section-five .icons .icon{
-  height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
   background: white;
   border-radius: 50%;
   margin: 50px 10px 0 140px;
@@ -375,7 +437,7 @@ export default {
 }
 /* ///////////////////////////////////////////////////////////////////// */
 .section-six{
-  height: 30vh;
+  height: 40vh;
   width: 100%;
   background: white;
   display: flex;
@@ -387,8 +449,8 @@ export default {
   display: flex;
 }
 .section-six .icons .icon{
-  height: 70px;
-  width: 70px;
+  height: 90px;
+  width: 90px;
   background: #42b983;
   border-radius: 50%;
   margin: 50px 10px 0 140px;
@@ -409,4 +471,42 @@ export default {
   color: #42b983;
 }
 /* ///////////////////////////////////////////////////////////////////// */
+.section-seven{
+  height: 50vh;
+  width: 100%;
+  background: #42b983;
+  display: flex;
+}
+
+.section-seven .icons{
+  width: 40%;
+  height: 30vh;
+  display: flex;
+}
+.section-seven .icons .icon{
+  height: 90px;
+  width: 90px;
+  background: white;
+  border-radius: 50%;
+  margin: 50px 10px 0 140px;
+}
+.section-seven .icons h1{
+  margin: 30px 0 0 180px;
+  font-size: 45px;
+  color: white;
+}
+.section-seven .content{
+  text-align: left;
+   width: 60%;
+  height: 30vh;
+}
+.section-seven .content h3{
+  font-size: 30px;
+  margin: 10px 25px;
+  color: white;
+}
+.section-seven .content li{
+  color: white;
+  
+}
 </style>
