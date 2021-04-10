@@ -1,21 +1,21 @@
 <template>
   <div id="app">
-    <WhyJoinUS/>
+    <WhyJoinUS2 />
   </div>
 </template>
 
 <script>
-import WhyJoinUS from './components/WhyJoinUS.vue'
+import WhyJoinUS2 from "./components/whyjoinus2.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    WhyJoinUS
-  }
-}
+    WhyJoinUS2,
+  },
+};
 </script>
 <style>
-*{
+* {
   margin: 0;
 }
 </style>
